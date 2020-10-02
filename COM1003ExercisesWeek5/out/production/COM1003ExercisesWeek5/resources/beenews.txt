@@ -1,0 +1,9 @@
+A natural, sustainable alternative to pesticides that targets specific pests, without harming beneficial pollinators such as honeybees, is being developed with the help of researchers from the Institute for Sustainable Food at the University of Sheffield.
+
+Working in collaboration with industry partner and leading agricultural company, Syngenta, experts at the institute are helping to develop a pioneering biocontrol that uses dsRNA-based biocontrols to target plant pests.
+
+RNA is a molecule essential for the coding, decoding, regulation and expression of genes. RNA-based biocontrols exploit a naturally occurring process called RNA interference (RNAi) in which double stranded RNA (dsRNA) essentially stops the production of a critical protein in the target pest.
+
+There is a significant need for innovative approaches to crop protection, driven by the need for greater food production, pest expansion linked to climate breakdown and the push for more sustainable farming practices.
+
+New research published by the scientists in Analyst, a Royal Society of Chemistry journal, suggests this new approach could be key to addressing the threat to food security posed by plant pests, which account for a 40 per cent loss in global agricultural production and costs 100 billion dollars every year.

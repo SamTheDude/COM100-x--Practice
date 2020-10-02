@@ -1,0 +1,21 @@
+h1{
+	background-color: orange;
+}
+
+.highlight{
+	color: blue;
+	font-style: italic;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.redgrey{
+	background-color: rgba(50, 50, 50, 1);
+	color: red;
+}
+
+.largegreenfont{
+	font-family: Calibri;
+	font-size: 3em;
+	color: green;
+}
